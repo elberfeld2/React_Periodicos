@@ -9,10 +9,10 @@ import NotFound from '../pages/404'
 const App = () => (
     <BrowserRouter>
         <Switch>
-            <Route exact path="React_Periodicos/" component={PeriodicosContainer} />
-            <Route exact path="React_Periodicos/exercise" component={ExercisesContainer} />
-            <Route exact path="React_Periodicos/exercise/new" component={ExerciseNewContainer} />
-            <Route exact path="React_Periodicos/:id" component={PeriodicoContainer} />
+            <Route exact path="/" component={PeriodicosContainer} />
+            <Route exact path="/exercise" component={ExercisesContainer} />
+            <Route exact path="/exercise/new" component={ExerciseNewContainer} />
+            <Route exact path="/:id" component={PeriodicoContainer} />
             <Route component={NotFound}/>
         </Switch>
     </BrowserRouter>
