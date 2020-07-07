@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Periodicos/static/css/main.be61647b.chunk.css",
-    "main.js": "/React_Periodicos/static/js/main.1b4547d0.chunk.js",
-    "main.js.map": "/React_Periodicos/static/js/main.1b4547d0.chunk.js.map",
+    "main.js": "/React_Periodicos/static/js/main.c61d502a.chunk.js",
+    "main.js.map": "/React_Periodicos/static/js/main.c61d502a.chunk.js.map",
     "runtime-main.js": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js",
     "runtime-main.js.map": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js.map",
     "static/css/2.829c9cb5.chunk.css": "/React_Periodicos/static/css/2.829c9cb5.chunk.css",
     "static/js/2.05a4d3d9.chunk.js": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js",
     "static/js/2.05a4d3d9.chunk.js.map": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js.map",
     "index.html": "/React_Periodicos/index.html",
-    "precache-manifest.b8763c5bce44f36fe0df83092bb1432e.js": "/React_Periodicos/precache-manifest.b8763c5bce44f36fe0df83092bb1432e.js",
+    "precache-manifest.b628d06ff995a86d0be9905a7837e6d3.js": "/React_Periodicos/precache-manifest.b628d06ff995a86d0be9905a7837e6d3.js",
     "service-worker.js": "/React_Periodicos/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/React_Periodicos/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.be61647b.chunk.css.map": "/React_Periodicos/static/css/main.be61647b.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.05a4d3d9.chunk.js",
     "static/css/main.be61647b.chunk.css",
-    "static/js/main.1b4547d0.chunk.js"
+    "static/js/main.c61d502a.chunk.js"
   ]
 }
