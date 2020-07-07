@@ -2,7 +2,7 @@
   "name": "fitness",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elberfeld2.github.io/React_Periodicos/",
+  "homepage": "https://elberfeld2.github.io/React_Periodicos",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
