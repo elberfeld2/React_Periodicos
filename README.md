@@ -1,9 +1,9 @@
-#App de periodicos
+# App de periodicos
 
 La app fue construidad usando un api de [periodicos](https://newsapi.org/v2/) con react
 
 
-##Comandos
+## Comandos
 
 npm start
 npm test
