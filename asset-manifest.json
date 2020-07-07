@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Periodicos/static/css/main.ff6611f7.chunk.css",
-    "main.js": "/React_Periodicos/static/js/main.97fff9b7.chunk.js",
-    "main.js.map": "/React_Periodicos/static/js/main.97fff9b7.chunk.js.map",
+    "main.js": "/React_Periodicos/static/js/main.bf370349.chunk.js",
+    "main.js.map": "/React_Periodicos/static/js/main.bf370349.chunk.js.map",
     "runtime-main.js": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js",
     "runtime-main.js.map": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js.map",
     "static/css/2.829c9cb5.chunk.css": "/React_Periodicos/static/css/2.829c9cb5.chunk.css",
     "static/js/2.05a4d3d9.chunk.js": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js",
     "static/js/2.05a4d3d9.chunk.js.map": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js.map",
     "index.html": "/React_Periodicos/index.html",
-    "precache-manifest.4adfaa97561096c62fde2d20b5818429.js": "/React_Periodicos/precache-manifest.4adfaa97561096c62fde2d20b5818429.js",
+    "precache-manifest.afdf7c5f4ee6479261b2fbbaeed7af54.js": "/React_Periodicos/precache-manifest.afdf7c5f4ee6479261b2fbbaeed7af54.js",
     "service-worker.js": "/React_Periodicos/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/React_Periodicos/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.ff6611f7.chunk.css.map": "/React_Periodicos/static/css/main.ff6611f7.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.05a4d3d9.chunk.js",
     "static/css/main.ff6611f7.chunk.css",
-    "static/js/main.97fff9b7.chunk.js"
+    "static/js/main.bf370349.chunk.js"
   ]
 }
