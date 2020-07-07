@@ -1,6 +1,5 @@
 import React from 'react'
 import circlesImg from '../images/circles.png'
-import emptyImg from '../images/periodico.png'
 
 import './styles/Card.css'
 

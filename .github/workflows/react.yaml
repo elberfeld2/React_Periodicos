@@ -15,15 +15,17 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: Instalando paqutes
-      run: npm install
-    - name: Build
-      run: npm run build
     - name: Ubicar
       run: ls -l
+    - name: Instalando paquetes
+      run: npm install
+    - name: Actualizando paquetes
+      run: npm update
+    - name: Build
+      run: npm run build
       
     - name: Subir a pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.TOKEN }}
-        publish_dir: ./build/
+        publish_dir: ./build
