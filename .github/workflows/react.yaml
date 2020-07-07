@@ -22,7 +22,7 @@ jobs:
     - name: Actualizando paquetes
       run: npm update
     - name: Build
-      run: npm run build
+      run: PUBLIC_URL=React_Periodicos npm run build
       
     - name: Subir a pages
       uses: peaceiris/actions-gh-pages@v3
