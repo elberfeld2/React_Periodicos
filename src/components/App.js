@@ -9,7 +9,7 @@ import NotFound from '../pages/404'
 const App = () => (
     <BrowserRouter basename="/React_Periodicos">
         <Switch>
-            <Route exact path="/exercise" component={ExercisesContainer} />
+            <Route exact path="/" component={ExercisesContainer} />
             <Route exact path="/exercise/new" component={ExerciseNewContainer} />
             <Route component={NotFound}/>
         </Switch>
