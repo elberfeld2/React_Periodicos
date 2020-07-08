@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2fc9f0802e20507b5d1796067950c9b",
+    "revision": "32cf8f958dda8ec7d374326b7c32e58e",
     "url": "/React_Periodicos/index.html"
   },
   {
-    "revision": "960522a0b83821e93a5d",
+    "revision": "f9a3442b886a8b922221",
     "url": "/React_Periodicos/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "c72c5d457421c0725bd9",
-    "url": "/React_Periodicos/static/css/main.9646173d.chunk.css"
+    "revision": "ae774976b9ee6685913b",
+    "url": "/React_Periodicos/static/css/main.ff6611f7.chunk.css"
   },
   {
-    "revision": "960522a0b83821e93a5d",
-    "url": "/React_Periodicos/static/js/2.36cceafe.chunk.js"
+    "revision": "f9a3442b886a8b922221",
+    "url": "/React_Periodicos/static/js/2.a333536a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/React_Periodicos/static/js/2.36cceafe.chunk.js.LICENSE.txt"
+    "url": "/React_Periodicos/static/js/2.a333536a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c72c5d457421c0725bd9",
-    "url": "/React_Periodicos/static/js/main.e05394bd.chunk.js"
+    "revision": "ae774976b9ee6685913b",
+    "url": "/React_Periodicos/static/js/main.4400f679.chunk.js"
   },
   {
     "revision": "0cd14de151e2133d4d2b",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eb728687589f75caecdb7f2b3d71c1d5",
     "url": "/React_Periodicos/static/media/circles.eb728687.png"
+  },
+  {
+    "revision": "ea0b6d34fed7a01019a90e1b2f6729f6",
+    "url": "/React_Periodicos/static/media/periodico.ea0b6d34.png"
   }
 ]);
