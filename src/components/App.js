@@ -7,7 +7,10 @@ import PeriodicoContainer from '../pages/PeriodicoContainer'
 import NotFound from '../pages/404'
 
 const App = () => (
-    <BrowserRouter>
+    <BrowserRouter basename="/React_Periodicos">
+        <div>
+            <h1>HOLA</h1>
+        </div>
         <Switch>
             <Route exact path="/" component={PeriodicosContainer} />
             <Route exact path="/exercise" component={ExercisesContainer} />
