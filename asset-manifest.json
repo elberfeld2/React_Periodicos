@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/React_Periodicos/static/css/main.ff6611f7.chunk.css",
-    "main.js": "/React_Periodicos/static/js/main.cf0bf496.chunk.js",
-    "main.js.map": "/React_Periodicos/static/js/main.cf0bf496.chunk.js.map",
+    "main.css": "/React_Periodicos/static/css/main.9646173d.chunk.css",
+    "main.js": "/React_Periodicos/static/js/main.3c7b9ca3.chunk.js",
+    "main.js.map": "/React_Periodicos/static/js/main.3c7b9ca3.chunk.js.map",
     "runtime-main.js": "/React_Periodicos/static/js/runtime-main.fa357605.js",
     "runtime-main.js.map": "/React_Periodicos/static/js/runtime-main.fa357605.js.map",
     "static/css/2.829c9cb5.chunk.css": "/React_Periodicos/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.a333536a.chunk.js": "/React_Periodicos/static/js/2.a333536a.chunk.js",
-    "static/js/2.a333536a.chunk.js.map": "/React_Periodicos/static/js/2.a333536a.chunk.js.map",
+    "static/js/2.36cceafe.chunk.js": "/React_Periodicos/static/js/2.36cceafe.chunk.js",
+    "static/js/2.36cceafe.chunk.js.map": "/React_Periodicos/static/js/2.36cceafe.chunk.js.map",
     "index.html": "/React_Periodicos/index.html",
-    "precache-manifest.07d91633acbac16338c5d913ad8f5200.js": "/React_Periodicos/precache-manifest.07d91633acbac16338c5d913ad8f5200.js",
+    "precache-manifest.a724447f590edc0ae20060e57358d9fe.js": "/React_Periodicos/precache-manifest.a724447f590edc0ae20060e57358d9fe.js",
     "service-worker.js": "/React_Periodicos/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/React_Periodicos/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.ff6611f7.chunk.css.map": "/React_Periodicos/static/css/main.ff6611f7.chunk.css.map",
-    "static/js/2.a333536a.chunk.js.LICENSE.txt": "/React_Periodicos/static/js/2.a333536a.chunk.js.LICENSE.txt",
+    "static/css/main.9646173d.chunk.css.map": "/React_Periodicos/static/css/main.9646173d.chunk.css.map",
+    "static/js/2.36cceafe.chunk.js.LICENSE.txt": "/React_Periodicos/static/js/2.36cceafe.chunk.js.LICENSE.txt",
     "static/media/404.png": "/React_Periodicos/static/media/404.f16a1ad5.png",
     "static/media/500.png": "/React_Periodicos/static/media/500.854842fa.png",
-    "static/media/circles.png": "/React_Periodicos/static/media/circles.eb728687.png",
-    "static/media/periodico.png": "/React_Periodicos/static/media/periodico.ea0b6d34.png"
+    "static/media/circles.png": "/React_Periodicos/static/media/circles.eb728687.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa357605.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.a333536a.chunk.js",
-    "static/css/main.ff6611f7.chunk.css",
-    "static/js/main.cf0bf496.chunk.js"
+    "static/js/2.36cceafe.chunk.js",
+    "static/css/main.9646173d.chunk.css",
+    "static/js/main.3c7b9ca3.chunk.js"
   ]
 }
