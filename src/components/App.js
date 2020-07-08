@@ -7,7 +7,7 @@ import ExerciseNewContainer from '../pages/ExerciseNewContainer'
 import NotFound from '../pages/404'
 
 const App = () => (
-    <BrowserRouter basename="/React_Periodicos">
+    <BrowserRouter >
         <Switch>
             <Route exact path="/" component={ExercisesContainer} />
             <Route exact path="/exercise/new" component={ExerciseNewContainer} />
