@@ -9,13 +9,14 @@ import NotFound from '../pages/404'
 const App = () => (
     <BrowserRouter basename="/React_Periodicos">
         <Switch>
-            <Route exact path="/" component={PeriodicosContainer} />
             <Route exact path="/exercise" component={ExercisesContainer} />
             <Route exact path="/exercise/new" component={ExerciseNewContainer} />
-            <Route exact path="/:id" component={PeriodicoContainer} />
             <Route component={NotFound}/>
         </Switch>
     </BrowserRouter>
 )
-
+/*
+            <Route exact path="/" component={PeriodicosContainer} />
+            <Route exact path="/:id" component={PeriodicoContainer} />
+*/
 export default App
