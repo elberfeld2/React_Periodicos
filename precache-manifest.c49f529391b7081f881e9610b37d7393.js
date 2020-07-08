@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32cf8f958dda8ec7d374326b7c32e58e",
+    "revision": "0cc13477405a83bfe716ebf15a106691",
     "url": "/React_Periodicos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Periodicos/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "ae774976b9ee6685913b",
+    "revision": "b903b3dd75eb167e0c9f",
     "url": "/React_Periodicos/static/css/main.ff6611f7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Periodicos/static/js/2.a333536a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae774976b9ee6685913b",
-    "url": "/React_Periodicos/static/js/main.4400f679.chunk.js"
+    "revision": "b903b3dd75eb167e0c9f",
+    "url": "/React_Periodicos/static/js/main.0ddfce15.chunk.js"
   },
   {
     "revision": "0cd14de151e2133d4d2b",
