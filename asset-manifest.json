@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/React_Periodicos/static/css/main.be61647b.chunk.css",
-    "main.js": "/React_Periodicos/static/js/main.304c0a9a.chunk.js",
-    "main.js.map": "/React_Periodicos/static/js/main.304c0a9a.chunk.js.map",
-    "runtime-main.js": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js",
-    "runtime-main.js.map": "/React_Periodicos/static/js/runtime-main.2e4c2e0f.js.map",
+    "main.css": "/React_Periodicos/static/css/main.ff6611f7.chunk.css",
+    "main.js": "/React_Periodicos/static/js/main.4400f679.chunk.js",
+    "main.js.map": "/React_Periodicos/static/js/main.4400f679.chunk.js.map",
+    "runtime-main.js": "/React_Periodicos/static/js/runtime-main.fa357605.js",
+    "runtime-main.js.map": "/React_Periodicos/static/js/runtime-main.fa357605.js.map",
     "static/css/2.829c9cb5.chunk.css": "/React_Periodicos/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.05a4d3d9.chunk.js": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js",
-    "static/js/2.05a4d3d9.chunk.js.map": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js.map",
+    "static/js/2.a333536a.chunk.js": "/React_Periodicos/static/js/2.a333536a.chunk.js",
+    "static/js/2.a333536a.chunk.js.map": "/React_Periodicos/static/js/2.a333536a.chunk.js.map",
     "index.html": "/React_Periodicos/index.html",
-    "precache-manifest.4fbdd2a09dd1a3517e95ef20b8c1c87f.js": "/React_Periodicos/precache-manifest.4fbdd2a09dd1a3517e95ef20b8c1c87f.js",
+    "precache-manifest.e3681932007e93109d7e48951465f801.js": "/React_Periodicos/precache-manifest.e3681932007e93109d7e48951465f801.js",
     "service-worker.js": "/React_Periodicos/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/React_Periodicos/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.be61647b.chunk.css.map": "/React_Periodicos/static/css/main.be61647b.chunk.css.map",
-    "static/js/2.05a4d3d9.chunk.js.LICENSE.txt": "/React_Periodicos/static/js/2.05a4d3d9.chunk.js.LICENSE.txt",
+    "static/css/main.ff6611f7.chunk.css.map": "/React_Periodicos/static/css/main.ff6611f7.chunk.css.map",
+    "static/js/2.a333536a.chunk.js.LICENSE.txt": "/React_Periodicos/static/js/2.a333536a.chunk.js.LICENSE.txt",
     "static/media/404.png": "/React_Periodicos/static/media/404.f16a1ad5.png",
     "static/media/500.png": "/React_Periodicos/static/media/500.854842fa.png",
     "static/media/circles.png": "/React_Periodicos/static/media/circles.eb728687.png",
     "static/media/periodico.png": "/React_Periodicos/static/media/periodico.ea0b6d34.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e4c2e0f.js",
+    "static/js/runtime-main.fa357605.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.05a4d3d9.chunk.js",
-    "static/css/main.be61647b.chunk.css",
-    "static/js/main.304c0a9a.chunk.js"
+    "static/js/2.a333536a.chunk.js",
+    "static/css/main.ff6611f7.chunk.css",
+    "static/js/main.4400f679.chunk.js"
   ]
 }
